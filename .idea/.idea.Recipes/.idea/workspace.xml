@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5ae7913-d836-4b57-ab0b-a6200e83973c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yf1r2ZHIsxxakNcJkNI1ZginJn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Device#class com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSSimulatorKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="iPhone 11 Pro Max" />
+    <property name="DeviceKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="Simulator" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Developer/Xamarin/android-sdk-macosx" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunManager" selected="Xamarin.iOS.iOS Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Recipes.iOS/Recipes.iOS.fsproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5ae7913-d836-4b57-ab0b-a6200e83973c" name="Default Changelist" comment="" />
+      <created>1583319030562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583319030562</updated>
+      <workItem from="1583319037620" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="357" key="GridCell.Tab.0.bottom" timestamp="1583319224099">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.0.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224099" />
+    <state width="1345" height="357" key="GridCell.Tab.0.center" timestamp="1583319224098">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.0.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224098" />
+    <state width="1345" height="357" key="GridCell.Tab.0.left" timestamp="1583319224086">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.0.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224086" />
+    <state width="1345" height="357" key="GridCell.Tab.0.right" timestamp="1583319224099">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.0.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224099" />
+    <state width="1345" height="357" key="GridCell.Tab.1.bottom" timestamp="1583319240977">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.1.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240977" />
+    <state width="1345" height="357" key="GridCell.Tab.1.center" timestamp="1583319240976">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.1.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240976" />
+    <state width="1345" height="357" key="GridCell.Tab.1.left" timestamp="1583319240975">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.1.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240975" />
+    <state width="1345" height="357" key="GridCell.Tab.1.right" timestamp="1583319240976">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.1.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240976" />
+    <state width="1345" height="357" key="GridCell.Tab.3.bottom" timestamp="1583319244328">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.3.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244328" />
+    <state width="1345" height="357" key="GridCell.Tab.3.center" timestamp="1583319244325">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.3.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244325" />
+    <state width="1345" height="357" key="GridCell.Tab.3.left" timestamp="1583319244324">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.3.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244324" />
+    <state width="1345" height="357" key="GridCell.Tab.3.right" timestamp="1583319244327">
+      <screen x="55" y="23" width="1865" height="1057" />
+    </state>
+    <state width="1345" height="357" key="GridCell.Tab.3.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244327" />
+  </component>
+</project>
