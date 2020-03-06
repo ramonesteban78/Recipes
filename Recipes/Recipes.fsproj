@@ -6,9 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="CustomContentPage.fs" />
     <Compile Include="Recipes.fs" />
+    <Compile Include="App.fs" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Fabulous.StaticView.XamarinForms" Version="0.52.0" />
     <PackageReference Include="Xamarin.Forms" Version="4.4.0.991265" />
     <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
     <PackageReference Include="Fabulous.XamarinForms" Version="0.52.0" />

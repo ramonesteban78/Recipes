@@ -4,7 +4,9 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Recipes" t="IncludeRecursive">
+        <e p="App.fs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomContentPage.fs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Recipes.fs" t="Include" />
         <e p="Recipes.fsproj" t="IncludeRecursive" />
@@ -87,6 +89,7 @@
           <e p="AssemblyInfo.fs" t="Include" />
         </e>
         <e p="Recipes.iOS.fsproj" t="IncludeRecursive" />
+        <e p="RendererNavigationPage.fs" t="Include" />
         <e p="Resources" t="Include">
           <e p="LaunchScreen.storyboard" t="Include" />
         </e>

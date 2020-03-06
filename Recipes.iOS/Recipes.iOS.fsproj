@@ -94,7 +94,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.fs" />
-    <Compile Include="AppDelegate.fs" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <None Include="packages.config" />
@@ -143,6 +142,8 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <Compile Include="RendererNavigationPage.fs" />
+    <Compile Include="AppDelegate.fs" />
   </ItemGroup>
   <Import Project="..\packages\Xamarin.Forms.4.4.0.991265\build\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.4.4.0.991265\build\Xamarin.Forms.targets')" />
   <Import Project="..\.nuget\NuGet.targets" />
@@ -187,7 +188,7 @@
       <HintPath>..\packages\Fabulous.XamarinForms.LiveUpdate.0.52.0\lib\netstandard2.0\Fabulous.XamarinForms.LiveUpdate.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.FSharp.targets" Condition="Exists('$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.FSharp.targets')"/>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.FSharp.targets" Condition="Exists('$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.FSharp.targets')" />
   <ItemGroup>
     <ProjectReference Include="..\Recipes\Recipes.fsproj">
       <Project>{2CE5F8E4-3DC9-44FB-BB97-B65C63E53602}</Project>

@@ -1,13 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5ae7913-d836-4b57-ab0b-a6200e83973c" name="Default Changelist" comment="" />
+    <list default="true" id="f5ae7913-d836-4b57-ab0b-a6200e83973c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Recipes.iOS/RendererNavigationPage.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recipes/App.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recipes/CustomContentPage.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Recipes/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Recipes/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Recipes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Recipes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recipes.iOS/Recipes.iOS.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/Recipes.iOS/Recipes.iOS.fsproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recipes/Recipes.fs" beforeDir="false" afterPath="$PROJECT_DIR$/Recipes/Recipes.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recipes/Recipes.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/Recipes/Recipes.fsproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Recipes.Android/MainActivity.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipes.iOS/Properties/AssemblyInfo.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F02FE67E-5A42-F36B-794C-7BFB84107CB9/2/Program.fs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipes/CustomContentPage.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8E9AB226-C9A5-4DBD-B936-6A1FB41E66E3/161/Page.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipes.Android/Properties/AssemblyInfo.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipes.iOS/AppDelegate.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F02FE67E-5A42-F36B-794C-7BFB84107CB9/8/InputTypes.fs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F02FE67E-5A42-F36B-794C-7BFB84107CB9/32/540a586e/View.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E72CDD37-9B65-4CA4-848A-4435F9FA47F1/32/NavigationRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E72CDD37-9B65-4CA4-848A-4435F9FA47F1/D/FormsApplicationDelegate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipes/Recipes.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipes.iOS/RendererNavigationPage.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8E9AB226-C9A5-4DBD-B936-6A1FB41E66E3/39/ContentPage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipes/App.fs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Recipes.iOS/RendererContentPage.fs" />
+        <option value="$PROJECT_DIR$/Recipes.iOS/AppDelegate.fs" />
+        <option value="$PROJECT_DIR$/Recipes/RecipeView.xaml.cs" />
+        <option value="$PROJECT_DIR$/Recipes.iOS/RendererNavigationPage.fs" />
+        <option value="$PROJECT_DIR$/Recipes.Views/RecipeView.xaml.cs" />
+        <option value="$PROJECT_DIR$/Recipes/Recipes.fs" />
+        <option value="$PROJECT_DIR$/Recipes/App.fs" />
+        <option value="$PROJECT_DIR$/Recipes/CustomContentPage.fs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="Recipes.Android/invalid/Android Facet - Recipes.Android" />
+    </ignored-facets>
+  </component>
   <component name="ProjectId" id="1Yf1r2ZHIsxxakNcJkNI1ZginJn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,8 +67,15 @@
     <property name="DeviceKind#com.jetbrains.rider.run.xamarin.ios.devices.XamarinIOSDevicesProvider" value="Simulator" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Developer/Xamarin/android-sdk-macosx" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
@@ -50,61 +106,109 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583319030562</updated>
-      <workItem from="1583319037620" duration="245000" />
+      <workItem from="1583319037620" duration="1164000" />
+      <workItem from="1583420943658" duration="19740000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="357" key="GridCell.Tab.0.bottom" timestamp="1583319224099">
+    <state width="1347" height="357" key="GridCell.Tab.0.bottom" timestamp="1583439594991">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.0.bottom/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439594991" />
+    <state width="1347" height="357" key="GridCell.Tab.0.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421507" />
+    <state width="1347" height="357" key="GridCell.Tab.0.center" timestamp="1583439594990">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.0.center/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439594990" />
+    <state width="1347" height="357" key="GridCell.Tab.0.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421506" />
+    <state width="1347" height="357" key="GridCell.Tab.0.left" timestamp="1583439594988">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.0.left/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439594988" />
+    <state width="1347" height="357" key="GridCell.Tab.0.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421505" />
+    <state width="1347" height="357" key="GridCell.Tab.0.right" timestamp="1583439594990">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.0.right/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439594990" />
+    <state width="1347" height="357" key="GridCell.Tab.0.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421506" />
+    <state width="1347" height="357" key="GridCell.Tab.1.bottom" timestamp="1583439595009">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.1.bottom/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595009" />
+    <state width="1347" height="357" key="GridCell.Tab.1.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421262" />
+    <state width="1347" height="357" key="GridCell.Tab.1.center" timestamp="1583439595007">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.1.center/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595007" />
+    <state width="1347" height="357" key="GridCell.Tab.1.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421259" />
+    <state width="1347" height="357" key="GridCell.Tab.1.left" timestamp="1583439594993">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.1.left/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439594993" />
+    <state width="1347" height="357" key="GridCell.Tab.1.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421253" />
+    <state width="1347" height="357" key="GridCell.Tab.1.right" timestamp="1583439595007">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.1.right/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595007" />
+    <state width="1347" height="357" key="GridCell.Tab.1.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421261" />
+    <state width="1347" height="357" key="GridCell.Tab.2.bottom" timestamp="1583439595030">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.2.bottom/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595030" />
+    <state width="1347" height="357" key="GridCell.Tab.2.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421265" />
+    <state width="1347" height="357" key="GridCell.Tab.2.center" timestamp="1583439595024">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.2.center/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595024" />
+    <state width="1347" height="357" key="GridCell.Tab.2.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421263" />
+    <state width="1347" height="357" key="GridCell.Tab.2.left" timestamp="1583439595011">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.2.left/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595011" />
+    <state width="1347" height="357" key="GridCell.Tab.2.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421262" />
+    <state width="1347" height="357" key="GridCell.Tab.2.right" timestamp="1583439595029">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.2.right/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595029" />
+    <state width="1347" height="357" key="GridCell.Tab.2.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421264" />
+    <state width="1347" height="357" key="GridCell.Tab.3.bottom" timestamp="1583439595033">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.3.bottom/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595033" />
+    <state width="1347" height="357" key="GridCell.Tab.3.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421273" />
+    <state width="1347" height="357" key="GridCell.Tab.3.center" timestamp="1583439595032">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.3.center/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595032" />
+    <state width="1347" height="357" key="GridCell.Tab.3.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421268" />
+    <state width="1347" height="357" key="GridCell.Tab.3.left" timestamp="1583439595031">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.3.left/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595031" />
+    <state width="1347" height="357" key="GridCell.Tab.3.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421266" />
+    <state width="1347" height="357" key="GridCell.Tab.3.right" timestamp="1583439595032">
+      <screen x="54" y="23" width="1866" height="1057" />
+    </state>
+    <state width="1347" height="357" key="GridCell.Tab.3.right/1920.203.1440.877/54.23.1866.1057@54.23.1866.1057" timestamp="1583439595032" />
+    <state width="1347" height="357" key="GridCell.Tab.3.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583438421271" />
+    <state x="349" y="290" key="Rider.ProjectTemplateDialog.Size" timestamp="1583476967427">
       <screen x="55" y="23" width="1865" height="1057" />
     </state>
-    <state width="1345" height="357" key="GridCell.Tab.0.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224099" />
-    <state width="1345" height="357" key="GridCell.Tab.0.center" timestamp="1583319224098">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.0.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224098" />
-    <state width="1345" height="357" key="GridCell.Tab.0.left" timestamp="1583319224086">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.0.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224086" />
-    <state width="1345" height="357" key="GridCell.Tab.0.right" timestamp="1583319224099">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.0.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319224099" />
-    <state width="1345" height="357" key="GridCell.Tab.1.bottom" timestamp="1583319240977">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.1.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240977" />
-    <state width="1345" height="357" key="GridCell.Tab.1.center" timestamp="1583319240976">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.1.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240976" />
-    <state width="1345" height="357" key="GridCell.Tab.1.left" timestamp="1583319240975">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.1.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240975" />
-    <state width="1345" height="357" key="GridCell.Tab.1.right" timestamp="1583319240976">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.1.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319240976" />
-    <state width="1345" height="357" key="GridCell.Tab.3.bottom" timestamp="1583319244328">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.3.bottom/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244328" />
-    <state width="1345" height="357" key="GridCell.Tab.3.center" timestamp="1583319244325">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.3.center/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244325" />
-    <state width="1345" height="357" key="GridCell.Tab.3.left" timestamp="1583319244324">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.3.left/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244324" />
-    <state width="1345" height="357" key="GridCell.Tab.3.right" timestamp="1583319244327">
-      <screen x="55" y="23" width="1865" height="1057" />
-    </state>
-    <state width="1345" height="357" key="GridCell.Tab.3.right/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583319244327" />
+    <state x="349" y="290" key="Rider.ProjectTemplateDialog.Size/1920.203.1440.877/55.23.1865.1057@55.23.1865.1057" timestamp="1583476967427" />
   </component>
 </project>
