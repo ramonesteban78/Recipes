@@ -6,13 +6,19 @@ open Fabulous.XamarinForms.LiveUpdate
 open Xamarin.Forms
 
 module App =
-    let program = Program.mkProgram Recipe.init Recipe.update Recipe.view
+    let changeContentPageBase program =
+        //Fabulous.XamarinForms.ViewBuilders.CreateContentPage <- fun () -> upcast(new RecipeContentPage())
+        program
+        
+    let program =
+        Program.mkProgram Recipe.init Recipe.update Recipe.view
 
 type App () as app = 
     inherit Application ()
 
-    let runner = 
+    let runner =
         App.program
+        |> App.changeContentPageBase
 #if DEBUG
         |> Program.withConsoleTrace
 #endif

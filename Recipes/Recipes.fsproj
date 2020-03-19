@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="CustomContentPage.fs" />
+    <Compile Include="RecipeContentPage.fs" />
+    <Compile Include="Styles.fs" />
+    <Compile Include="Tags.fs" />
     <Compile Include="Recipes.fs" />
     <Compile Include="App.fs" />
   </ItemGroup>
