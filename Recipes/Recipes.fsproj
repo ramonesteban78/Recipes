@@ -6,9 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="RecipeContentPage.fs" />
+    <Compile Include="Helper.fs" />
+    <Compile Include="Icons.fs" />
     <Compile Include="Styles.fs" />
     <Compile Include="Tags.fs" />
+    <Compile Include="IconLabel.fs" />
+    <Compile Include="RecipeContentPage.fs" />
     <Compile Include="Recipes.fs" />
     <Compile Include="App.fs" />
   </ItemGroup>

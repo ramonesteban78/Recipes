@@ -54,6 +54,7 @@
     <Compile Include="MainActivity.fs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assests\Font Awesome 5 Pro-Regular-400.otf" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Resources\AboutResources.txt" />
     <AndroidResource Include="Resources\layout\Tabbar.axml" />

@@ -15,10 +15,10 @@ module App =
 
 type App () as app = 
     inherit Application ()
-
+    
     let runner =
         App.program
-        |> App.changeContentPageBase
+        //|> App.changeContentPageBase
 #if DEBUG
         |> Program.withConsoleTrace
 #endif

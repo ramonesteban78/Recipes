@@ -6,6 +6,9 @@
       <e p="Recipes" t="IncludeRecursive">
         <e p="App.fs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Helper.fs" t="Include" />
+        <e p="IconLabel.fs" t="Include" />
+        <e p="Icons.fs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="RecipeContentPage.fs" t="Include" />
         <e p="Recipes.fs" t="Include" />
@@ -14,6 +17,9 @@
         <e p="Tags.fs" t="Include" />
       </e>
       <e p="Recipes.Android" t="IncludeRecursive">
+        <e p="Assests" t="Include">
+          <e p="Font Awesome 5 Pro-Regular-400.otf" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="MainActivity.fs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
@@ -93,6 +99,7 @@
         <e p="Recipes.iOS.fsproj" t="IncludeRecursive" />
         <e p="RendererNavigationPage.fs" t="Include" />
         <e p="Resources" t="Include">
+          <e p="FontAwesome5Pro-Regular.otf" t="Include" />
           <e p="LaunchScreen.storyboard" t="Include" />
         </e>
       </e>
